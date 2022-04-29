@@ -40,6 +40,9 @@ so if we send a valid data the login will be done successfully and we will navig
 we use try and catch approach to avoid any error that will crash the project . 
 
 
+in POM file you will find the dependancy which i used 
+
+
 this course is very helpful to learn cucumber i recommend it to anyone want to learn cucumber 
 "https://www.youtube.com/playlist?list=PLJ2FoWouEU2zZgl9FHFG4AjEDg_2JdBCN"
 
